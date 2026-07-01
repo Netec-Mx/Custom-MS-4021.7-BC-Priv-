@@ -22,67 +22,35 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+### [Práctica 1. Preparar el contexto operativo desde Outlook](Capitulo_1/README.md) 
 
-  - **Descripción**: xxx.
+  - **Descripción**: En esta práctica, utilizarás Microsoft 365 Copilot en Outlook para optimizar la gestión de comunicaciones relacionadas con incidentes operativos, solicitudes críticas y la coordinación con proveedores. Aprenderás a priorizar correos según su impacto en la operación, generar resúmenes ejecutivos que destaquen incidentes críticos, proveedores involucrados y acciones pendientes, y consolidar un contexto estructurado que servirá como base para el análisis posterior mediante Excel y Microsoft 365 Copilot Chat.
 
-  - ⏱️ **Duración estimada**: xx min.
-
-
-
-### [Práctica 2. Nombre de la práctica](CHAPTER_02/ch02-cashback-schema-design/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️ **Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 15  min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_03/ch03-cashback-dgs-service/README.md)
+### [Práctica 2. Analizar información operativa y financiera con Copilot en Excel](Capitulo_2/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: En esta práctica, utilizarás Microsoft 365 Copilot en Excel para analizar información operativa y evaluar el desempeño de los servicios críticos. Aprenderás a identificar patrones de incidentes, recurrencias, niveles de criticidad y variaciones operativas, comparar el desempeño, los costos y el cumplimiento de los acuerdos de nivel de servicio (SLA) entre proveedores, y generar hallazgos ejecutivos que faciliten la evaluación estratégica y la formulación de recomendaciones para la mejora continua.
 
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_04/ch04-smart-savings-goals/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 20 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_05/ch05-p2p-lending-federation/README.md)
+### [Práctica 3. Gestionar iniciativas tecnologicas con Microsoft 365 Copilot y Agente Scrum](Capitulo_3/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: En esta práctica, utilizarás Microsoft 365 Copilot, Prompt Coach y el Agente Scrum para transformar hallazgos técnicos en iniciativas priorizadas que aporten valor al negocio. Aprenderás a refinar prompts para generar historias de usuario, criterios de aceptación y reportes de mayor calidad, además de simular el seguimiento de un proyecto ágil mediante la gestión del backlog, sesiones de planning, revisiones y la comunicación ejecutiva del avance de las iniciativas.
 
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_06/ch06-fraud-detection-subscriptions/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️**Duración estimada**: 20 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_07/ch07-expense-analytics-caching/README.md)
+### [Práctica 4. Crear una presentacion ejecutiva de hallazgos tecnicos con Copilot en PowerPoint](Capitulo_4/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: En esta práctica, utilizarás Microsoft 365 Copilot en PowerPoint para crear una presentación ejecutiva basada en los hallazgos técnicos y operativos obtenidos durante el análisis previo. Aprenderás a estructurar y perfeccionar diapositivas sobre adopción, incidentes, backlog, riesgos y oportunidades de automatización, comunicando recomendaciones estratégicas de forma clara y orientada a la toma de decisiones por parte de líderes de Tecnología y áreas funcionales.
 
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_08/ch08-carbon-footprint-governance/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️**Duración estimada**: 20 min.
 
 
 
